@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="1864.62 949.796 20 16" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="16" width="20" x="1864.62" y="949.796"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Important Mail">
+<path d="M1875.24 957.136L1883.98 951.616C1884.35 951.384 1884.44 950.88 1884.17 950.542C1883.8 950.088 1883.25 949.796 1882.62 949.796L1866.62 949.796C1865.95 949.796 1865.37 950.124 1865 950.627C1864.76 950.965 1864.87 951.444 1865.22 951.664L1874 957.136C1874.38 957.372 1874.86 957.372 1875.24 957.136Z" fill="#f6f6f6" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+<path d="M1874 959.41L1865.35 954.018C1865.03 953.82 1864.62 954.049 1864.62 954.424L1864.62 963.796C1864.62 964.901 1865.51 965.796 1866.62 965.796L1882.62 965.796C1883.72 965.796 1884.62 964.901 1884.62 963.796L1884.62 954.36C1884.62 953.984 1884.2 953.755 1883.89 953.956L1875.24 959.411C1874.86 959.646 1874.38 959.646 1874 959.41Z" fill="#f6f6f6" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="1698.69 1012.32 20.001 20.0003" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="20.0003" width="20.001" x="1698.69" y="1012.32"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Email Send">
+<path d="M1699.01 1020.65L1702.99 1024.63C1703.38 1025.03 1704.01 1025.06 1704.44 1024.7L1715.09 1015.92L1706.31 1026.57C1705.95 1027 1705.98 1027.63 1706.38 1028.02L1710.36 1032C1710.92 1032.56 1711.87 1032.35 1712.14 1031.61L1718.63 1013.77C1718.94 1012.91 1718.1 1012.07 1717.24 1012.38L1699.4 1018.87C1698.66 1019.14 1698.45 1020.09 1699.01 1020.65Z" fill="#303030" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
+</g>
+</g>
+</svg>
