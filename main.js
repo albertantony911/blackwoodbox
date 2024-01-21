@@ -28,3 +28,10 @@ AOS.init({
   anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
 
 });;
+
+
+animate(
+  "#rotate",
+  { x: 100, rotate: 45 },
+  { duration: 0.5 }
+)
