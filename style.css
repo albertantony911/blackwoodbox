@@ -1363,6 +1363,14 @@ svg {
     font-size: 5vw;
   }
 
+  .portrait\:text-\[15vw\] {
+    font-size: 15vw;
+  }
+
+  .portrait\:text-\[14\.5vw\] {
+    font-size: 14.5vw;
+  }
+
   .portrait\:leading-\[10vw\] {
     line-height: 10vw;
   }

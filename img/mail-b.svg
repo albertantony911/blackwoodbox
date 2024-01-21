@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with Vectornator (http://vectornator.io/) -->
-<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="1656.17 978.172 20 16" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
-<defs/>
-<clipPath id="ArtboardFrame">
-<rect height="16" width="20" x="1656.17" y="978.172"/>
-</clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
-<g opacity="1" vectornator:layerName="Important Mail">
-<path d="M1666.78 985.512L1675.53 979.992C1675.89 979.76 1675.99 979.256 1675.71 978.918C1675.35 978.464 1674.79 978.172 1674.17 978.172L1658.17 978.172C1657.5 978.172 1656.91 978.5 1656.55 979.003C1656.31 979.341 1656.41 979.82 1656.77 980.04L1665.55 985.512C1665.93 985.748 1666.41 985.748 1666.78 985.512Z" fill="#303030" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-<path d="M1665.55 987.786L1656.9 982.394C1656.58 982.196 1656.17 982.425 1656.17 982.8L1656.17 992.172C1656.17 993.277 1657.06 994.172 1658.17 994.172L1674.17 994.172C1675.27 994.172 1676.17 993.277 1676.17 992.172L1676.17 982.736C1676.17 982.36 1675.75 982.131 1675.43 982.332L1666.78 987.787C1666.41 988.022 1665.93 988.022 1665.55 987.786Z" fill="#303030" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="path"/>
-</g>
-</g>
+<svg width="100%" height="100%" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:10;">
+    <g transform="matrix(1,0,0,1.09091,-255.803,-1867.91)">
+        <g id="Layer">
+            <g>
+                <g transform="matrix(1,0,0,0.916667,0,142.764)">
+                    <path d="M271.803,1725.17L257.803,1725.17C257.251,1725.17 256.803,1724.72 256.803,1724.17L256.803,1714.17C256.803,1713.61 257.251,1713.17 257.803,1713.17L271.803,1713.17C272.355,1713.17 272.803,1713.61 272.803,1714.17L272.803,1724.17C272.803,1724.72 272.355,1725.17 271.803,1725.17Z" style="fill:none;fill-rule:nonzero;stroke:rgb(48,48,48);stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,1.52767e-13,-1)">
+                    <path d="M272.803,1714.17L264.803,1719.17L256.803,1714.17L256.803,1716.17L264.803,1721.17L272.803,1716.17L272.803,1714.17Z" style="fill:rgb(48,48,48);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
