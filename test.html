@@ -34,11 +34,15 @@
 
     <!-- CSS Stylesheets -->
     <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
 
 
     <!-- JavaScript Libraries -->
     
     <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+    <script src="./main.js" defer></script>
+
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -91,7 +95,7 @@
           "https://wa.me/916282174585?"
         ]
       }
-      </script>
+    </script>
 
 </head>
 
@@ -108,19 +112,19 @@
 
         <div class="max-sm:portrait:flex-col h-[80svh] flex-row gap-20 max-sm:portrait:gap-0 px-24 max-sm:px-0 flex justify-center">
         
-          <div class="w-[45%] max-sm:portrait:w-full ">
-            <div
+          <div id="head" class="w-[45%] max-sm:portrait:w-full ">
+            <div data-aos="fade-down" data-aos-delay="100" data-aos-once="true"
               class="w-[25svw] max-sm:portrait:w-[45svw] max-sm:portrait:ml-[12svw]  mx-auto max-sm:mx-0 max-sm:portrait:h-[37svh] h-[75svh]   bg-slate-100 flex flex-col justify-end">
               <img style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;" class="max-sm:portrait:size-[45svw] size-auto"
                 src="./img/blackwoodbox_logo.svg" alt="">
             </div>
           </div>
         
-          <div class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[5svh]  pt-[20svh] my-auto">
-            <h1 class="max-sm:portrait:text-[8vw] text-[4rem]  font-[800] whitespace-pre-line max-sm:portrait:leading-[10vw] leading-[5rem]">CREATIVE
+          <div data-aos="fade-in" data-aos-delay="500" data-aos-once="true" class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-14 max-sm:portrait:pt-[5svh]  pt-[20svh] my-auto">
+            <h1  class="max-sm:portrait:text-[8vw] text-[4rem]  font-[800] whitespace-pre-line max-sm:portrait:leading-[10vw] leading-[5rem]">CREATIVE
               BRANDING
               STUDIO.</h1>
-            <p class="font-[300] max-sm:portrait:mt-[2svh] mt-10 max-sm:portrait:text-[3.3vw] text-lg">We specialize in startups and new-gen brands that go the extra mile for their
+            <p  class="font-[300] max-sm:portrait:mt-[2svh] mt-10 max-sm:portrait:text-[3.3vw] text-lg">We specialize in startups and new-gen brands that go the extra mile for their
               customers.</p>
             <a id="contactButton" href="#contact" aria-label="Contact Us" >
               <button
@@ -132,7 +136,7 @@
         
         </div>
         
-        <div class="flex flex-col mx-auto mt-[10svh]">
+        <div data-aos="fade-in" data-aos-delay="500" data-aos-anchor="#head" data-aos-once="true" class="flex flex-col mx-auto mt-[10svh]">
           <p id="scrollDesc"
             class="md:whitespace-normal portrait:text-[2vw] portrait:sm:text-[2vw]  lg:portrait:text-[1vw] landscape:text-xs lg:landscape:text-xs  font-normal leading-relaxed mx-auto">
             SCROLL DOWN
@@ -147,7 +151,7 @@
       
       <section style="box-shadow: rgba(0, 0, 0, 0.035) 0px 10px 15px -3px inset, rgba(0, 0, 0, 0.035) 0px 4px 6px -4px;" class="max-sm:portrait:flex-col px-36 max-sm:portrait:px-0 py-36 max-sm:portrait:py-24 max-sm:gap-0 flex flex-row gap-20">
     
-        <div class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
           <h1
             class="max-sm:portrait:text-[13.5vw] sm:portrait:leading-[4rem] text-[5rem] sm:portrait:text-[4rem] font-[800] max-sm:portrait:leading-[13vw] leading-[6rem]">
             Founder's Note.</h1>
@@ -164,7 +168,7 @@
           
         </div>
 
-        <div class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
         
           <img style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
             class="max-sm:portrait:size-[50svw] size-[20rem] ml-auto  max-sm:ml-0" src="./img/blackwoodbox_logo.svg" alt="">
@@ -184,7 +188,7 @@
       <section style="box-shadow: rgba(0, 0, 0, 0.035) 0px 10px 15px -3px inset, rgba(0, 0, 0, 0.035) 0px 4px 6px -4px;"
         class="max-sm:portrait:flex-col px-36 max-sm:portrait:px-0 py-36 max-sm:portrait:py-24 max-sm:gap-0 flex flex-row gap-20">
       
-        <div class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
           <h1 class="max-sm:portrait:text-[13.5vw] sm:portrait:leading-[4rem] sm:portrait:text-[4rem] text-[5rem] font-[800] portrait:whitespace-pre-line max-sm:portrait:leading-[13vw] leading-[6rem]">We help
           build
           Brands.</h1>
@@ -201,7 +205,7 @@
       
         </div>
       
-        <div class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-14 max-sm:portrait:pt-[7svh] my-auto">
       
           <img style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
             class="max-sm:portrait:size-[50svw] size-[20rem] ml-auto  max-sm:ml-0" src="./img/blackwoodbox_logo.svg" alt="">
@@ -221,7 +225,7 @@
       <section style="box-shadow: rgba(0, 0, 0, 0.035) 0px 10px 15px -3px inset, rgba(0, 0, 0, 0.035) 0px 4px 6px -4px;"
         class="max-sm:portrait:flex-col px-36 max-sm:portrait:px-0 py-36 max-sm:portrait:py-24 max-sm:gap-0 flex flex-row gap-20">
       
-        <div class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
           <h1
             class="max-sm:portrait:text-[13.5vw] sm:portrait:leading-[4rem] text-[5rem] sm:portrait:text-[4rem] font-[800] portrait:whitespace-pre-line max-sm:portrait:leading-[13vw] leading-[6rem]">Looking
             for our
@@ -238,7 +242,7 @@
       
         </div>
       
-        <div class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
       
           <img style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
             class="max-sm:portrait:size-[50svw] size-[20rem] ml-auto  max-sm:ml-0" src="./img/blackwoodbox_logo.svg" alt="">
@@ -258,7 +262,7 @@
       <section style="box-shadow: rgba(0, 0, 0, 0.035) 0px 10px 15px -3px inset, rgba(0, 0, 0, 0.035) 0px 4px 6px -4px;"
         class="max-sm:portrait:flex-col px-36 max-sm:portrait:px-0 py-36 max-sm:portrait:py-24 max-sm:gap-0 flex flex-row gap-20">
       
-        <div class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
+        <div  data-aos="fade-in" data-aos-delay="100" data-aos-once="true"class="w-[65%] max-sm:portrait:w-full max-sm:portrait:px-12 my-auto">
           <h1
             class="max-sm:portrait:text-[13.5vw] text-[5rem] sm:portrait:text-[4rem] font-[800] portrait:whitespace-pre-line max-sm:portrait:leading-[13vw] leading-[6rem] sm:portrait:leading-[4rem]">Proposal
             made
@@ -276,7 +280,7 @@
       
         </div>
       
-        <div class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="w-[45%] max-sm:portrait:w-full max-sm:portrait:px-12 max-sm:portrait:pt-[7svh] my-auto">
       
           <img style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
             class="max-sm:portrait:size-[50svw] size-[20rem] ml-auto  max-sm:ml-0" src="./img/blackwoodbox_logo.svg" alt="">
@@ -295,7 +299,7 @@
 
       <section style="box-shadow: rgba(0, 0, 0, 0.035) 0px 10px 15px -3px inset, rgba(0, 0, 0, 0.035) 0px 4px 6px -4px;" class="max-sm:flex-col px-36 max-sm:gap-0 max-sm:px-0 flex flex-row gap-20">
       
-        <div class="max-sm:px-12 py-36 max-sm:py-24 w-full">
+        <div data-aos="fade-in" data-aos-delay="100" data-aos-once="true" class="max-sm:px-12 py-36 max-sm:py-24 w-full">
           <h1
             class="max-sm:text-[14.5vw] text-[6rem] sm:portrait:text-[4rem] font-[800] portrait:leading-[10vw] leading-[5rem]">
             Let's talk.</h1>
@@ -309,7 +313,7 @@
             <div class="flex flex-row w-[30%] max-sm:w-[95%] sm:portrait:w-[40%] pt-[7vw] md:pt-5 pb-[5vw] md:pb-5">
 
               <!-- Button 1 -->
-              <a target="_blank" href="https://wa.me/916282174585?text=I%20want%20to%20schedule%20a%20meeting." role="button"
+              <a data-aos="fade-in" data-aos-delay="200" data-aos-once="true" target="_blank" href="https://wa.me/916282174585?text=I%20want%20to%20schedule%20a%20meeting." role="button"
                 style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
                 class="heartbeat focus:outline-none hover:scale-105 hover:shadow-2xl ml-0 hover:bg-slate-200 hover:text-[#020204] text-white p-[4vw] mx-auto md:p-4 transition-transform duration-300 transform bg-slate-100 rounded-full select-none"
                 aria-label="Open WhatsApp to schedule a meeting">
@@ -318,7 +322,7 @@
               </a>
 
               <!-- Button 2 -->
-              <a target="_blank" href="https://ig.me/m/theblackwoodbox" role="button" style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
+              <a data-aos="fade-in" data-aos-delay="300" data-aos-once="true" target="_blank" href="https://ig.me/m/theblackwoodbox" role="button" style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
                 class="heartbeat focus:outline-none hover:scale-105 hover:shadow-2xl hover:bg-slate-200 hover:text-[#020204] text-white p-[4vw] md:p-4 mx-auto transition-transform duration-300 transform bg-slate-100 rounded-full select-none"
                 aria-label="Open Instagram to visit The Blackwood Box" target="_blank" rel="noopener noreferrer">
                 <img class="md:size-6 size-[5vw] m-auto cursor-pointer" src="./img/instagram-b.svg" alt="Instagram Logo">
@@ -326,7 +330,7 @@
               </a>
 
               <!-- Button 3 -->
-              <a target="_blank"  href="tel:+916282174585"
+              <a data-aos="fade-in" data-aos-delay="400" data-aos-once="true" target="_blank"  href="tel:+916282174585"
                 style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
                 class="zcal-inline-widget heartbeat focus:outline-none hover:scale-105 hover:shadow-2xl hover:bg-slate-200 hover:text-[#020204] text-white p-[4vw] md:p-4 mx-auto transition-transform duration-300 transform bg-slate-100 rounded-full select-none"
                 aria-label="Send email">
@@ -335,7 +339,7 @@
               </a>
 
               <!-- Button 4 -->
-              <a target="_blank" href="mailto:info@blackwoodbox.com" 
+              <a data-aos="fade-in" data-aos-delay="500" data-aos-once="true" target="_blank" href="mailto:info@blackwoodbox.com" 
                 style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
                 class="zcal-inline-widget heartbeat focus:outline-none hover:scale-105 hover:shadow-2xl hover:bg-slate-200 hover:text-[#020204] text-white p-[4vw] md:p-4 mx-auto transition-transform duration-300 transform bg-slate-100 rounded-full select-none"
                 aria-label="Send email">
@@ -345,7 +349,7 @@
             </div>
             
             <div class="flex">
-              <a target="_blank" href="https://zcal.co/i/EWwdyq_H" role="button" style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
+              <a data-aos="fade-in" data-aos-delay="600" data-aos-once="true" target="_blank" href="https://zcal.co/i/EWwdyq_H" role="button" style="box-shadow: rgba(146, 146, 173, 0.35) 0px 5px 15px;"
                 class="zcal-inline-widget whitespace-nowrap focus:outline-none hover:scale-105 hover:shadow-2xl hover:bg-slate-200 hover:text-[#020204] text-slate-800 md:mt-2 mt-[3vw] ml-0 landscape:text-base portrait:text-[4vw] sm:portrait:text-[1.5vw] portrait:px-[6vw] sm:portrait:px-[3vw] portrait:py-[4vw] sm:portrait:py-[2vw] landscape:px-6 landscape:py-5 mx-auto transition-transform duration-300 transform bg-slate-100 rounded-full select-none"
                 aria-label="Schedule a Meeting">
                 <div class="flex flex-row gap-3 font-medium">
