@@ -794,6 +794,16 @@ html {
   height: 19rem;
 }
 
+.size-\[22rem\] {
+  width: 22rem;
+  height: 22rem;
+}
+
+.size-\[21rem\] {
+  width: 21rem;
+  height: 21rem;
+}
+
 .h-12 {
   height: 3rem;
 }
@@ -1629,6 +1639,16 @@ svg {
     .max-sm\:portrait\:size-\[50svw\] {
       width: 50svw;
       height: 50svw;
+    }
+
+    .max-sm\:portrait\:size-\[60svw\] {
+      width: 60svw;
+      height: 60svw;
+    }
+
+    .max-sm\:portrait\:size-\[65svw\] {
+      width: 65svw;
+      height: 65svw;
     }
 
     .max-sm\:portrait\:h-\[37svh\] {
