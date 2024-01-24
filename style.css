@@ -1608,6 +1608,10 @@ svg {
       margin-top: 0.75rem;
     }
 
+    .max-sm\:portrait\:ml-\[5vw\] {
+      margin-left: 5vw;
+    }
+
     .max-sm\:portrait\:hidden {
       display: none;
     }
@@ -1788,6 +1792,14 @@ svg {
 
     .sm\:portrait\:mr-10 {
       margin-right: 2.5rem;
+    }
+
+    .sm\:portrait\:ml-\[3vw\] {
+      margin-left: 3vw;
+    }
+
+    .sm\:portrait\:ml-\[7vw\] {
+      margin-left: 7vw;
     }
 
     .sm\:portrait\:hidden {
