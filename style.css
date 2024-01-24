@@ -789,6 +789,11 @@ html {
   height: 15rem;
 }
 
+.size-\[19rem\] {
+  width: 19rem;
+  height: 19rem;
+}
+
 .h-12 {
   height: 3rem;
 }
