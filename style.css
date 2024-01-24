@@ -774,6 +774,21 @@ html {
   height: 0.75rem;
 }
 
+.size-\[18rem\] {
+  width: 18rem;
+  height: 18rem;
+}
+
+.size-\[17rem\] {
+  width: 17rem;
+  height: 17rem;
+}
+
+.size-\[15rem\] {
+  width: 15rem;
+  height: 15rem;
+}
+
 .h-12 {
   height: 3rem;
 }
@@ -1425,6 +1440,10 @@ svg {
 }
 
 @media (min-width: 640px) {
+  .sm\:mt-2 {
+    margin-top: 0.5rem;
+  }
+
   .sm\:hidden {
     display: none;
   }
@@ -1583,6 +1602,10 @@ svg {
 
     .max-sm\:portrait\:ml-\[7vw\] {
       margin-left: 7vw;
+    }
+
+    .max-sm\:portrait\:mt-3 {
+      margin-top: 0.75rem;
     }
 
     .max-sm\:portrait\:hidden {
